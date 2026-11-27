@@ -3,5 +3,5 @@ venv/
 .venv/
 chroma_db/
 chroma_db_v2/
-chroma_cb_v3/
+chroma_db_v3/
 __pycache__/
